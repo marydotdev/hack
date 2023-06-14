@@ -8,7 +8,7 @@
   <div>
     <Nav />
   </div>
-  <div class="scrollbar overflow-y-scroll">
+  <div class="scrollbar overflow-y-auto">
     <slot />
   </div>
   <div>

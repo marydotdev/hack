@@ -33,7 +33,7 @@
 
 <svelte:head>
 	<title>hack</title>
-	<meta name="description" content="hack" />
+	<meta name="description" content="hack - a sveltekit template" />
 </svelte:head>
 
 <div
@@ -54,7 +54,7 @@
 			</div>
 		</div>
 		<div
-			class="scrollbar py-4 w-full lg:h-[calc(100vh-120px)] lg:overflow-y-scroll border-2 border-zinc-900 dark:border-zinc-50"
+			class="scrollbar px-2 py-4 w-full lg:h-[calc(100vh-120px)] lg:overflow-y-scroll border-2 border-zinc-900 dark:border-zinc-50"
 		>
 			<div>
 				<article class="mx-auto prose prose-zinc dark:prose-invert">
